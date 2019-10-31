@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+mathjax: true
 permalink: /portfolio/
 ---
 
