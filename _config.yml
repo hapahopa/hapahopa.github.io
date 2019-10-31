@@ -9,7 +9,7 @@ name: Milad Rostamkhani
 description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.dropbox.com/s/uzs4umqma9d7ghy/Milad%20Rostamkhani%20color%20for%20print11111.jpg?dl=0
+avatar: https://icon-library.net/images/cool-icon-picture/cool-icon-picture-22.jpg
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin: milad-ros-a9a313193
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
