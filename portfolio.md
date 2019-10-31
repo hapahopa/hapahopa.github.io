@@ -5,6 +5,7 @@ mathjax: true
 permalink: /portfolio/
 ---
 
+{% include mathjax.html %}
 
 
 ### My Portfolio
